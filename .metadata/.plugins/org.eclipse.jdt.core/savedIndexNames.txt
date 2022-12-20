@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Codility Test Solution\.metadata\.plugins\org.eclipse.jdt.core
+4223191744.index
+1865797976.index
+3959137331.index

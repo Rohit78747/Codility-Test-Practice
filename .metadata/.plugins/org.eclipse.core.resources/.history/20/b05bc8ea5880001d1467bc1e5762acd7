@@ -1,0 +1,14 @@
+
+public class BinaryGap {
+	
+	public int solution(int N) {
+		String bString = Integer.toString(N, 2);
+		System.out.println(bString);
+		return 0;
+	}
+	public static void main(String[] args) {
+		
+		BinaryGap bg = new BinaryGap();
+		bg.solution(9);
+	}
+}
